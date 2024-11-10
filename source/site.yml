@@ -12,6 +12,8 @@ site:
   navigation:
     - title: NocoDB
       uri: /books/nocodb/index.html
+    - title: Pandas
+      uri: /books/pandas/index.html
     - title: Discuss
       uri: https://github.com/ittakestwo-hz/nocodb/discussions
       external: true
@@ -34,13 +36,13 @@ site:
     display-git-link: true
     # any custom styles used in theme:
     # code-font: Monaco
-  integration:
-    comment:
-      provider: disqus
-      name: nocodb
-    analytics:
-      provider: google
-      gtag: G-5Z40K7NBL5
+  # integration:
+  #   comment:
+  #     provider: disqus
+  #     name: nocodb
+  #   analytics:
+  #     provider: google
+  #     gtag: G-5Z40K7NBL5
 
 build:
   # copy special files under root dir (ignore if not found):

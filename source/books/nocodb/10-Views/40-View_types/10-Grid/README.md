@@ -1,10 +1,10 @@
 # 网格
 
-网格视图作为默认视图类型，允许您在类似电子表格的界面中通过行和列来展示数据。在 NocoDB 中，行称为记录，列称为字段。
+网格视图作为默认视图类型，允许您在类似电子表的界面中通过行和列来展示数据。在 NocoDB 中，行称为记录，列称为字段。
 
 ![1010-2 网格](https://docs.nocodb.com/assets/images/grid-a278b184ce772b6c7263abc105f09a76.png)
 
-网格视图是所有表格的默认视图类型。该视图类型非常适合在类似电子表格的界面中查看和编辑数据。您还可以在网格视图上执行各种操作，例如排序、过滤、分组和搜索。此外，您可以将网格视图中的数据导出为 CSV 或 Excel 格式。本节将介绍可在网格视图中执行的所有操作。
+网格视图是所有表的默认视图类型。该视图类型非常适合在类似电子表的界面中查看和编辑数据。您还可以在网格视图上执行各种操作，例如排序、筛选、分组和搜索。此外，您可以将网格视图中的数据导出为 CSV 或 Excel 格式。本节将介绍可在网格视图中执行的所有操作。
 
 ## 网格视图操作[](https://docs.nocodb.com/views/views-overview/#grid-view-actions "直接链接到网格视图操作")
 
@@ -19,7 +19,7 @@
 
 1.  [在网格中重新排列字段](https://docs.nocodb.com/table-operations/field-operations#rearranging-fields)
 2.  [在网格中显示或隐藏字段](https://docs.nocodb.com/table-operations/field-operations#showhide-fields)
-3.  [应用过滤器以在网格上显示特定记录](https://docs.nocodb.com/table-operations/filter)
+3.  [应用筛选器以在网格上显示特定记录](https://docs.nocodb.com/table-operations/filter)
 4.  [根据一个或多个条件对网格上的记录进行排序](https://docs.nocodb.com/table-operations/sort)
 5.  [在网格上水平分组记录](https://docs.nocodb.com/table-operations/group-by)
 6.  [在字段中搜索特定数据](https://docs.nocodb.com/table-operations/search)

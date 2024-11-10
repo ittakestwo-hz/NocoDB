@@ -1,1 +1,1 @@
-# Text based
+# 文本型

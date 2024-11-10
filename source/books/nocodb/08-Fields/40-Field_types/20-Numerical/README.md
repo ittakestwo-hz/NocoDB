@@ -1,1 +1,1 @@
-# Numerical
+# 数字型

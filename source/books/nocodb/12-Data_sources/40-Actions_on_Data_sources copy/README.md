@@ -47,7 +47,7 @@
 在基本设置主页中打开 [数据源](https://docs.nocodb.com/data-sources/data-source-overview#accessing-data-sources) 选项卡，选择您希望配置 UI ACL 的数据源，并按以下步骤操作：
 
 1.  选择 `UI ACL` 选项卡
-2.  您可以查看数据源中可用的视图和表格列表（作为行）及角色（作为列）。切换复选框以为特定角色启用/禁用表的访问。
+2.  您可以查看数据源中可用的视图和表列表（作为行）及角色（作为列）。切换复选框以为特定角色启用/禁用表的访问。
 3.  点击 `保存` 按钮保存更改
 
 ![界面访问控制](https://docs.nocodb.com/assets/images/data-source-uiacl-ad7f673a3f7e2074534b899219ea312a.png)

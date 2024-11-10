@@ -1,6 +1,6 @@
-# 通过导入创建表格
+# 通过导入创建表
 
-## 从 CSV / Excel / JSON 导入表格
+## 从 CSV / Excel / JSON 导入表
 
 ### 访问导入模式
 
@@ -53,15 +53,15 @@
 
 ### 高级设置
 
--   **使用首记录作为标题**：默认启用。如果选中，电子表格中的首记录将被视为标题记录，其内容将作为字段名。
--   **导入数据**：默认启用。如果选中，则导入所有数据；否则仅创建表格。
+-   **使用首记录作为标题**：默认启用。如果选中，电子表中的首记录将被视为标题记录，其内容将作为字段名。
+-   **导入数据**：默认启用。如果选中，则导入所有数据；否则仅创建表。
 
 > 默认情况下，首字段将被选择为显示值。
 
 ## 相关文章
 
--   [创建新表格](https://docs.nocodb.com/tables/create-table)
--   [将数据从 CSV / Xlsx 导入现有表格](https://docs.nocodb.com/tables/import-data-into-existing-table)
--   [重命名表格](https://docs.nocodb.com/tables/actions-on-table#rename-table)
--   [复制表格](https://docs.nocodb.com/tables/actions-on-table#duplicate-table)
--   [删除表格](https://docs.nocodb.com/tables/actions-on-table#delete-table)
+-   [创建新表](https://docs.nocodb.com/tables/create-table)
+-   [将数据从 CSV / Xlsx 导入现有表](https://docs.nocodb.com/tables/import-data-into-existing-table)
+-   [重命名表](https://docs.nocodb.com/tables/actions-on-table#rename-table)
+-   [复制表](https://docs.nocodb.com/tables/actions-on-table#duplicate-table)
+-   [删除表](https://docs.nocodb.com/tables/actions-on-table#delete-table)

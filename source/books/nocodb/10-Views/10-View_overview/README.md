@@ -4,11 +4,11 @@
 
 提示
 
-视图展示来自表格的数据。在某个视图中对记录的任何更新将会同步反映到同一表格的所有其他视图中。
+视图展示来自表的数据。在某个视图中对记录的任何更新将会同步反映到同一表的所有其他视图中。
 
 ## 支持的视图类型
 
-1.  [表格视图](https://docs.nocodb.com/views/view-types/grid)
+1.  [表视图](https://docs.nocodb.com/views/view-types/grid)
 2.  [表单视图](https://docs.nocodb.com/views/view-types/form)
 3.  [画廊视图](https://docs.nocodb.com/views/view-types/gallery)
 4.  [看板视图](https://docs.nocodb.com/views/view-types/kanban)

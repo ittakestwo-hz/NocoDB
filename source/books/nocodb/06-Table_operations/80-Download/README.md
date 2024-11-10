@@ -1,18 +1,20 @@
-# 搜索
+# 数据下载
 
-NocoDB 提供了一个快速搜索功能，可以让您通过字段从工具栏菜单中搜索记录。这个功能在处理大数据集时非常有用，可以与 `Filter` 功能结合使用，以进一步细化搜索结果。
+NocoDB 允许用户以多种格式从电子表网格中导出数据。这个功能在处理大型数据集时非常有用，并且可以与 `Filter` （筛选） 和 `Sort` （排序）功能结合使用，以进一步精炼数据。
 
-1. 点击工具栏菜单中的 `Search` 按钮（可选）
-2. 选择要搜索的 `Field`（可选）
-3. 在搜索栏中输入搜索词。
+## 下载数据[](https://docs.nocodb.com/getting-started/self-hosted/installation/aws-ecs/#download-data "直接链接到下载数据")
 
-![image](https://docs.nocodb.com/assets/images/table-search-762c0ea68ae64bfda3aee882a82a326e.png)
+要从 NocoDB 导出数据，请按照以下步骤操作：
 
-### 相关主题[](https://docs.nocodb.com/getting-started/self-hosted/installation/aws-ecs/#related-topics "直接链接到相关主题")
+1. 点击顶部栏中的视图名称以打开视图上下文菜单。
+2. 选择 `Download` （下载）选项。
+3. 从下拉菜单中选择所需的文件格式。
 
--   [字段操作](https://docs.nocodb.com/table-operations/field-operations)
--   [过滤器](https://docs.nocodb.com/table-operations/filter)
--   [排序](https://docs.nocodb.com/table-operations/sort)
--   [分组](https://docs.nocodb.com/table-operations/group-by)
--   [行高](https://docs.nocodb.com/table-operations/row-height)
--   [下载](https://docs.nocodb.com/table-operations/download)
+![导出](https://docs.nocodb.com/assets/images/download-ed4e9d7c25042a1618aeba14265da840.png)
+
+- [字段操作](https://docs.nocodb.com/table-operations/field-operations)
+- [筛选](https://docs.nocodb.com/table-operations/filter)
+- [排序](https://docs.nocodb.com/table-operations/sort)
+- [分组](https://docs.nocodb.com/table-operations/group-by)
+- [行高](https://docs.nocodb.com/table-operations/row-height)
+- [快速搜索](https://docs.nocodb.com/table-operations/search)

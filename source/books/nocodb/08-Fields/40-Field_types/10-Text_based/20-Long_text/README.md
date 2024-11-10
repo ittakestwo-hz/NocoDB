@@ -18,7 +18,7 @@
 
 ### 单元格显示[](https://docs.nocodb.com/getting-started/self-hosted/installation/aws-ecs/#cell-display "直接链接到单元格显示")
 
-`长文本`字段在表格视图中显示为单行文本字段。点击单元格中的展开图标以查看完整文本。
+`长文本`字段在表视图中显示为单行文本字段。点击单元格中的展开图标以查看完整文本。
 
 ![image](https://docs.nocodb.com/assets/images/long-text-expand-d15b69ace110a10185959d52b19bce63.png)
 

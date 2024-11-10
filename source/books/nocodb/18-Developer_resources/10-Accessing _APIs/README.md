@@ -7,7 +7,7 @@
 
 要使用 API，您需要一个 API 密钥和终端。NocoDB 托管实例的终端 URL 格式为 `https://app.nocodb.com/api/v2/tables/TABLEID/records` 和 `https://app.nocodb.com/api/v2/meta/bases/BASEID/info`。
 
-- 您可以在 NocoDB 中进入任意表格 > 详情 > API 代码片段，找到 TABLEID。
+- 您可以在 NocoDB 中进入任意表 > 详情 > API 代码片段，找到 TABLEID。
 - 您可以点击任意数据库旁边的菜单图标 > REST APIs，并在 URL 中找到 BASEID。
 
 有关 REST API 的其他信息，请参见下文。

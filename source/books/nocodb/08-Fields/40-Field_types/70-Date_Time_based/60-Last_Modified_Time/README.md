@@ -23,6 +23,6 @@
 
 ## 单元格显示
 
-“最后修改时间”字段在表格视图中显示为只读字段。它以 `DD MMM YYYY, HH:mm` 格式显示为日期和时间字符串。
+“最后修改时间”字段在表视图中显示为只读字段。它以 `DD MMM YYYY, HH:mm` 格式显示为日期和时间字符串。
 
 - [创建时间](https://docs.nocodb.com/fields/field-types/date-time-based/created-time)

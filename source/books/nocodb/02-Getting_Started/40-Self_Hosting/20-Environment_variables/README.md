@@ -98,7 +98,7 @@
 | `NC_DISABLE_VCS` | 否 | 禁用版本控制系统。 | 默认为 `false`。 |
 | `NC_DISABLE_SSO` | 否 | 禁用单点登录。 | 默认为 `false`。 |
 | `NC_DISABLE_SYSTEM_DB` | 否 | 禁用系统数据库（数据表、外部数据库连接等）。 | 默认为 `false`。 |
-| `NC_USE_NEW_FILTERS` | 否 | 启用新的过滤器。 | 默认为 `false`。 |
+| `NC_USE_NEW_FILTERS` | 否 | 启用新的筛选器。 | 默认为 `false`。 |
 | `NC_USE_CLEANUP` | 否 | 启用后台清理作业，定期删除所有引用的附件。 | 默认为 `false`。 |
 | `NC_DISABLE_SMTP` | 否 | 禁用 SMTP。 | 默认为 `false`。 |
 | `NC_DISABLE_HTTP_LOGGING` | 否 | 禁用 HTTP 日志记录。 | 默认为 `false`。 |

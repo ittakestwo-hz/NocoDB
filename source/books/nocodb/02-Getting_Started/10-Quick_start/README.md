@@ -36,25 +36,25 @@ NocoDB 提供两种灵活的选择：自托管和 SaaS（云托管）。在本�
 
 ### 构建数据库[](https://docs.nocodb.com/getting-started/quick-start#build-a-base "直接链接到构建数据库")
 
-在 NocoDB 中构建数据库时，您可以定义数据库结构，创建用于存储数据的表格，为这些表格添加字段，并使用链接建立表之间的关系。这种关系型方法有助于有效地组织和管理数据，方便处理复杂的数据集并构建强大的应用程序。添加 [新数据库](https://docs.nocodb.com/bases/create-base)。或者，也可以从 Airtable 中 [导入现有数据库](https://docs.nocodb.com/bases/import-base-from-airtable) 并快速转换为 NocoDB 数据库。
+在 NocoDB 中构建数据库时，您可以定义数据库结构，创建用于存储数据的表，为这些表添加字段，并使用链接建立表之间的关系。这种关系型方法有助于有效地组织和管理数据，方便处理复杂的数据集并构建强大的应用程序。添加 [新数据库](https://docs.nocodb.com/bases/create-base)。或者，也可以从 Airtable 中 [导入现有数据库](https://docs.nocodb.com/bases/import-base-from-airtable) 并快速转换为 NocoDB 数据库。
 
-#### 创建表格[](https://docs.nocodb.com/getting-started/quick-start#create-tables "直接链接到创建表格")
+#### 创建表[](https://docs.nocodb.com/getting-started/quick-start#create-tables "直接链接到创建表")
 
-表格类似于电子表格，数据以行和列的形式排列。在创建数据库后，您可以开始 [添加新表格](https://docs.nocodb.com/tables/create-table)。您还可以 [从 CSV、Excel 或 JSON 文件中导入现有结构数据](https://docs.nocodb.com/tables/create-table-via-import) 来填充表格。
+表类似于电子表，数据以行和列的形式排列。在创建数据库后，您可以开始 [添加新表](https://docs.nocodb.com/tables/create-table)。您还可以 [从 CSV、Excel 或 JSON 文件中导入现有结构数据](https://docs.nocodb.com/tables/create-table-via-import) 来填充表。
 
 #### 添加字段[](https://docs.nocodb.com/getting-started/quick-start#add-fields "直接链接到添加字段")
 
-在每个表格中，[定义字段](https://docs.nocodb.com/fields/fields-overview) 用于存储数据。字段是列式数据容器，用于存储特定类型的数据。字段可以表示各种类型的信息，例如文本、数字、日期等。查看支持的完整字段类型列表 [在此](https://docs.nocodb.com/fields/fields-overview)。
+在每个表中，[定义字段](https://docs.nocodb.com/fields/fields-overview) 用于存储数据。字段是列式数据容器，用于存储特定类型的数据。字段可以表示各种类型的信息，例如文本、数字、日期等。查看支持的完整字段类型列表 [在此](https://docs.nocodb.com/fields/fields-overview)。
 
 使用多字段编辑器快速批量管理字段 - 添加、编辑、重新排序、更改可见性、重新配置等都可以在单一窗口完成。[了解更多](https://docs.nocodb.com/fields/multi-fields-editor)。
 
 #### 使用链接建立关系[](https://docs.nocodb.com/getting-started/quick-start#establish-relationships-with-links "直接链接到使用链接建立关系")
 
-NocoDB 的强大功能之一是通过 [链接](https://docs.nocodb.com/fields/field-types/links-based/links) 建立表格之间的关系。例如，您可以通过在“项目”表中创建一个指向“任务”表的链接字段，将“任务”与特定的“项目”关联起来。
+NocoDB 的强大功能之一是通过 [链接](https://docs.nocodb.com/fields/field-types/links-based/links) 建立表之间的关系。例如，您可以通过在“项目”表中创建一个指向“任务”表的链接字段，将“任务”与特定的“项目”关联起来。
 
 #### 添加记录[](https://docs.nocodb.com/getting-started/quick-start#add-records "直接链接到添加记录")
 
-创建表格并定义必要的字段后，您可以开始将记录添加到表格中。记录是表格中的各个条目或行，包含您想要存储和管理的实际数据。您可以 [手动添加记录](https://docs.nocodb.com/records/create-record) 或 [从 CSV 文件中上传现有数据集](https://docs.nocodb.com/tables/import-data-into-existing-table)。
+创建表并定义必要的字段后，您可以开始将记录添加到表中。记录是表中的各个条目或行，包含您想要存储和管理的实际数据。您可以 [手动添加记录](https://docs.nocodb.com/records/create-record) 或 [从 CSV 文件中上传现有数据集](https://docs.nocodb.com/tables/import-data-into-existing-table)。
 
 #### 创建视图[](https://docs.nocodb.com/getting-started/quick-start#create-views "直接链接到创建视图")
 
@@ -62,7 +62,7 @@ NocoDB 的强大功能之一是通过 [链接](https://docs.nocodb.com/fields/fi
 
 #### 连接您的数据源[](https://docs.nocodb.com/getting-started/quick-start#connect-your-data-sources "直接链接到连接您的数据源")
 
-NocoDB 不仅支持从零开始创建数据库和表格，还允许您通过 [连接现有数据源](https://docs.nocodb.com/data-sources/data-source-overview) 快速入门，并将表格 UI 应用于数据源。
+NocoDB 不仅支持从零开始创建数据库和表，还允许您通过 [连接现有数据源](https://docs.nocodb.com/data-sources/data-source-overview) 快速入门，并将表 UI 应用于数据源。
 
 ### 团队协作[](https://docs.nocodb.com/getting-started/quick-start#collaborate-with-your-team "直接链接到团队协作")
 

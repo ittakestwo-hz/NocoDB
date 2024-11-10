@@ -1,6 +1,6 @@
 # 看板
 
-看板视图允许您使用卡片作为各种堆栈的一部分来可视化数据。您可以通过拖放轻松地将卡片重新排列到不同的堆栈中。本部分将介绍在看板视图中可以执行的所有操作。
+看板视图允许您使用卡片作为各种堆栈的一部分来可视化数据。您可以通过拖放轻松地将卡片重新排列到不同的堆栈中。本文将介绍在看板视图中可以执行的所有操作。
 
 ![1010-2 看板](https://docs.nocodb.com/assets/images/kanban-e00b90c6413259b626deeeb6659281ea.png)
 
@@ -93,6 +93,6 @@
 
 ## 相关文章[](https://docs.nocodb.com/views/views-overview/#related-articles "直接链接到相关文章")
 
-[表格视图](https://docs.nocodb.com/views/view-types/grid)  
+[表视图](https://docs.nocodb.com/views/view-types/grid)  
 [看板视图](https://docs.nocodb.com/views/view-types/kanban)  
 [表单视图](https://docs.nocodb.com/views/view-types/form)

@@ -16,7 +16,7 @@
 
 成功创建 Base 后，您将被引导至 Base 仪表板，这是 Base 的主要登录页面。该中心集线器为用户提供了快速访问基本设置和协作工具等重要功能。要访问 Base 仪表板，只需点击左侧边栏中的 Base 名称。
 
-有关向 Base 添加表格的更多详细信息，请参见 [表格](https://docs.nocodb.com/tables/create-table) 部分。
+有关向 Base 添加表的更多详细信息，请参见 [表](https://docs.nocodb.com/tables/create-table) 部分。
 
 ## 相关文章
 

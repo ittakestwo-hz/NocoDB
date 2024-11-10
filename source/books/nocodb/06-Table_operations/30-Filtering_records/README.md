@@ -1,8 +1,8 @@
-# 记录筛选
+# 筛选记录
 
 筛选器提供了强大的方式，可根据您的具体需求来缩小和组织数据范围。NocoDB 支持嵌套筛选，允许您选择多个字段和条件进行筛选。您可以选择 `and` 或 `or` 模式来组合筛选条件，且筛选还支持查找、公式和嵌套数据。
 
-### 添加或编辑筛选器
+## 添加或编辑筛选器
 
 要添加或编辑筛选器，只需点击工具栏中的 `Filter` 按钮，然后选择 `Add filter` 或 `Add filter group`。
 
@@ -16,13 +16,13 @@
 
 ![嵌套筛选器](https://docs.nocodb.com/assets/images/filter-3-f6db70222f513a250bf4b0bd36e3c158.png)
 
-### 删除筛选器
+## 删除筛选器
 
 要删除筛选器，点击相应筛选器右侧的垃圾桶图标。
 
 ![删除筛选器](https://docs.nocodb.com/assets/images/filter-5-e2ea016b369c57c5787ec7c4259f7fc6.png)
 
-### 分组筛选器
+## 分组筛选器
 
 您还可以选择使用筛选器组将多个筛选器分组在一起。
 
@@ -42,15 +42,15 @@
 
 另外，您也可以使用空白筛选器来筛选掉包含 NULL 或 EMPTY 值的单元格。
 
-### 支持的筛选器
+## 支持的筛选器
 
 NocoDB 目前支持各字段对应的多种筛选器类型。请参阅下方的矩阵了解详细信息。
 
 [筛选器矩阵](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpCNKtA-szaXUKJEO5uuSIRnzUOK793MKnyBz9m2rQcwn7HqK19jPHeER-IIRWH9X56J78wfxXZuuv/pubhtml?gid=427284630&single=true&widget=true&headers=false)
 
--   [字段操作](https://docs.nocodb.com/table-operations/field-operations)
--   [排序](https://docs.nocodb.com/table-operations/sort)
--   [分组](https://docs.nocodb.com/table-operations/group-by)
--   [行高](https://docs.nocodb.com/table-operations/row-height)
--   [快速搜索](https://docs.nocodb.com/table-operations/search)
--   [下载](https://docs.nocodb.com/table-operations/download)
+- [字段操作](https://docs.nocodb.com/table-operations/field-operations)
+- [排序](https://docs.nocodb.com/table-operations/sort)
+- [分组](https://docs.nocodb.com/table-operations/group-by)
+- [行高](https://docs.nocodb.com/table-operations/row-height)
+- [快速搜索](https://docs.nocodb.com/table-operations/search)
+- [下载](https://docs.nocodb.com/table-operations/download)
