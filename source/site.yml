@@ -10,10 +10,20 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
+    - title: Python
+      uri: /books/python/index.html
+    - title: OS
+      uri: /books/os/index.html
     - title: NocoDB
       uri: /books/nocodb/index.html
     - title: Pandas
       uri: /books/pandas/index.html
+    - title: Scrapy
+      uri: /books/scrapy/index.html
+    - title: Lxml
+      uri: /books/lxml/index.html
+    - title: Books
+      uri: /books/books/index.html
     - title: Discuss
       uri: https://github.com/ittakestwo-hz/nocodb/discussions
       external: true
